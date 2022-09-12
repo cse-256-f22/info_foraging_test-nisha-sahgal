@@ -69,7 +69,6 @@ header {
     text-decoration: underline;
 }
 
-
 header a {
     color: white;
 }
@@ -147,4 +146,11 @@ header a {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+.sticky {
+    margin-top: 43px;
+    position: fixed;
+    top: 0;
+    width: 100%
 }
